@@ -1,4 +1,4 @@
-# cf_db
+# gfdrr-labs-data
 
 Challenge Fund Database combining Hazard, Exposure, Loss and Vulnerability
 schema into a single database
